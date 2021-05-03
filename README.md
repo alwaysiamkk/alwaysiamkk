@@ -39,7 +39,7 @@
 
 > ⚡ Most Recent
 
-[![Phone Pe Internship](https://github-readme-stats.vercel.app/api/pin/?username=alwaysiamkk&repo=Internship)](https://github.com/alwaysiamkk/Internship)
+[![Phone Pe Internship](https://github-readme-stats.vercel.app/api/pin/?username=alwaysiamkk&repo=Intrnship)](https://github.com/alwaysiamkk/Internship)
 
 [instagram]: https://instagram.com/the.kirankumar
 [linkedin]: https://linkedin.com/in/iamkk
