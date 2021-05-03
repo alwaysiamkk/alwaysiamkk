@@ -32,18 +32,18 @@
 
 ---
 
-> :zap: GitHub Stats
+> ⚡ GitHub Stats
 
 ![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysiamkk&count_private=true&show_icons=true&theme=dark)
 
 > ⚡ Most Recent
 
-[![Phone Pe Internship](https://github-readme-stats.vercel.app/api/pin/?username=alwaysiamkk&repo=Internship&theme=dark)](https://github.com/alwaysiamkk/Internship)
-
-> 👨‍💻 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysiamkk&theme=dark)](https://github.com/alwaysiamkk/Internship)
-
+<a href="https://github.com/alwaysiamkk/Internship">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alwaysiamkk&repo=Internship&theme=dark" />
+</a>
+<a href="https://github.com/alwaysiamkk/Internship">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysiamkk&theme=dark" />
+</a>
 
 [instagram]: https://instagram.com/the.kirankumar
 [linkedin]: https://linkedin.com/in/iamkk
