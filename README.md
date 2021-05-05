@@ -14,7 +14,7 @@
 
 <br />
 
-### Languages and Tools:
+### Tools:
 
 [<img align="left" alt="Visual Studio Code" height="25px" src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC?style=flat-square" />][vscode]
 [<img align="left" alt="HTML5" height="25px" src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" />][html]
