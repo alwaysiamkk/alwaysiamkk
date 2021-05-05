@@ -18,14 +18,16 @@
 
 [<img align="left" alt="Visual Studio Code" height="25px" src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC?style=flat-square" />][vscode]
 [<img align="left" alt="HTML5" height="25px" src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="CSS3" height="25px" src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" />][css]
 [<img align="left" alt="JavaScript" height="25px" src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" />][js]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" alt="React" height="25px" src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" />][react]
+[<img align="left" alt="Node.js" height="25px" src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" />][nodejs]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="MongoDB" height="25px" src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" />][mongodb]
+[<img align="left" alt="Git" height="25px" src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Android" height="25px" src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" />][android]
+<!--[<img align="left" alt="Flutter" height="25px" src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" />][flutter]-->
 
 <br />
 <br />
@@ -61,3 +63,5 @@
 [mongodb]: https://www.mongodb.com/https://www.mongodb.com/
 [git]: https://git-scm.com/https://git-scm.com/
 [github]: https://github.com/
+[android]: https://developer.android.com/about
+
