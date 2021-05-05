@@ -29,7 +29,7 @@
 [<img align="left" alt="Android" height="25px" src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" />][android]
 <!--[<img align="left" alt="Flutter" height="25px" src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" />][flutter]-->
 
-<br />
+<br>
 <br />
 
 ---
