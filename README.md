@@ -37,18 +37,18 @@
 <!--<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" />-->
 
 
-> :zap: GitHub Stats
+<!-- > :zap: GitHub Stats
 
 ![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-k-node&count_private=true&show_icons=true&theme=dark)
 
-<!-- > ⚡ Most Recent
+ > ⚡ Most Recent
 
 [![Phone Pe Internship](https://github-readme-stats.vercel.app/api/pin/?username=the-k-node&repo=Internship&theme=dark)](https://github.com/the-k-node/Internship)
--->
-> 👨‍💻 
+
+ > 👨‍💻 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-k-node&theme=dark)](https://github.com/the-k-node/Internship)
-
+-->
 
 [instagram]: https://instagram.com/the.kirankumar
 [linkedin]: https://linkedin.com/in/iamkk
