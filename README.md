@@ -1,6 +1,6 @@
 ### Hi there, I'm Kiran 👋
 
-## I'm a Student, Developer, and SRE Intern @ PhonePe !
+## I'm a Dev & currently Eng @PhonePe!
 
 - 🌱 I’m currently learning everything that interests me
 - 👯 I’m looking expand my skills by working on projects
