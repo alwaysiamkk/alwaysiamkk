@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything that interests me
 - 👯 I’m looking expand my skills by working on projects
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute & explore more interests\updates in tech.
 
 
 ### Connect with me:
